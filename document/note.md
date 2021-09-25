@@ -14,6 +14,7 @@
 - 横 57 pixel で 20 cm
 - 縦 33 pixel で 10 cm
 - <font color="LightCoral  ">タイマー 付箋</font>
+
 - <span style="color: gold; ">**_タイマー 付箋持っていく_**</span>
 - 確認 修正を修正していく
 
