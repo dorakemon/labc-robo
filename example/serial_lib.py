@@ -61,6 +61,6 @@ def LED_blink(n):
     ser.write(bytes([255,99,n,0]))
     time.sleep(0.05)              
 
-def close():
+def close( ):
     ser.close
     
