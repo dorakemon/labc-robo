@@ -26,4 +26,6 @@ time.sleep(0.5)
 ser.camera_horizontal(90)
 ser.camera_vertical(73)
 
-ser.close( )
+ser.close()
+ser.close()
+ser.close()
